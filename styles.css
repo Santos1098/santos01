@@ -1,0 +1,17 @@
+body {
+    background: #121212;
+    color: #FFD700;
+    font-family: Arial;
+}
+
+.toolbar button {
+    background: #333;
+    color: #FFD700;
+    border: 1px solid #FFD700;
+    padding: 10px;
+}
+
+canvas {
+    border: 2px solid #FFD700;
+    background: white;
+}
